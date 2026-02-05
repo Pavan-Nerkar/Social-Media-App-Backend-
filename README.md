@@ -1,8 +1,6 @@
 # Social Media Web Application
 
-## 🚀 Introduction
-This project is a Social Media Web Application developed with **React.js**, and **Tailwind CSS**.  
-It demonstrates core social features such as post creation, likes, and comments, with a focus on clean UI, component reusability, and interactive user experience.
+In this project where users can create posts, view posts, and interact with other users.
 
 ---
 
