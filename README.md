@@ -1,8 +1,6 @@
 # Social Media Web Application
 
-## 🚀 Introduction
-This Social Media Web Application allows users to share posts, interact with content through likes and comments, and explore a simple, responsive social feed.  
-The UI is designed with **MUI + Tailwind CSS** for a fast, clean, and mobile-friendly experience. The project demonstrates frontend skills such as component-based architecture, state management.
+Full-stack Ecommerce platform.
 
 ---
 
