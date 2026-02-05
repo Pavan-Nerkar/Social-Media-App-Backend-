@@ -1,26 +1,29 @@
-# Social Media Application
+# Social Media Web Application
 
-A **social media web application** built using **React, Material UI (MUI), and Tailwind CSS**.  
-This project focuses on providing a clean design, reusable components, and core social media features like post creation, likes, and comments.
-
----
-
-## Features
-- User authentication (Login / Signup UI)  
-- Create posts  
-- Like & Comment system  
-- Responsive design using **MUI + Tailwind CSS**  
-- Fast and interactive UI with React
+## 🚀 Introduction
+This Social Media Web Application allows users to share posts, interact with content through likes and comments, and explore a simple, responsive social feed.  
+The UI is designed with **MUI + Tailwind CSS** for a fast, clean, and mobile-friendly experience. The project demonstrates frontend skills such as component-based architecture, state management.
 
 ---
 
-## Tech Stack
-- **Frontend:** React.js  
-- **UI Library:** Material UI (MUI)  
+## ✨ Features
+- User Authentication UI (Login / Signup)  
+- Create & View Posts  
+- Like & Comment on Posts  
+- Clean UI with **Material UI + Tailwind CSS**  
+- Reusable React Components  
+- Fast & Interactive User Experience  
+
+---
+
+
+## 🛠 Tech Stack
+- **Backend:** Spring Boot, REST APIs, MySQL  
+- **Frontend:** React.js    
 - **Styling:** Tailwind CSS  
-- **Tools:** VS Code, npm  
 
 ---
+
 
 ## Project Demo 
 
