@@ -1,6 +1,8 @@
 # Social Media Web Application
 
-Full-stack Ecommerce platform.
+## 🚀 Introduction
+This project is a Social Media Web Application developed with **React.js**, and **Tailwind CSS**.  
+It demonstrates core social features such as post creation, likes, and comments, with a focus on clean UI, component reusability, and interactive user experience.
 
 ---
 
